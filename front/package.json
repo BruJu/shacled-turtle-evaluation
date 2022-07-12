@@ -1,0 +1,37 @@
+{
+  "name": "shacled-turtle-eval-front",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "npx parcel index.html data/* -p 7070",
+    "build": "npx parcel build index.html data/* --dist-dir ../back/parcel --no-source-maps"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codemirror/basic-setup": "^0.19.3",
+    "@codemirror/lint": "^0.19.6",
+    "@codemirror/state": "^0.19.9",
+    "@codemirror/view": "^0.19.37",
+    "@oruga-ui/oruga-next": "^0.5.5",
+    "@oruga-ui/theme-bulma": "^0.2.5",
+    "axios": "^0.26.1",
+    "handlebars": "^4.7.7",
+    "n3": "^1.16.0",
+    "pinia": "^2.0.13",
+    "pug": "^3.0.2",
+    "shacled-turtle": "^0.0.2",
+    "turtle": "^0.6.1",
+    "vue": "^3.2.31",
+    "vue-timer-hook": "^1.0.0"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.4.1",
+    "@parcel/transformer-raw": "^2.4.1",
+    "@parcel/transformer-vue": "^2.0.1",
+    "@types/n3": "^1.10.4",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "parcel": "^2.4.1"
+  }
+}

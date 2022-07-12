@@ -1,0 +1,15 @@
+{
+  "name": "shacled-turtle-eval",
+  "workspaces": [
+    "back",
+    "front",
+    "tool",
+    "results"
+  ],
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@codemirror/commands": "^0.19.8"
+  }
+}

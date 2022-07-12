@@ -1,0 +1,5 @@
+An online account is named "Charlie's account" and the homepage of the service
+that provides the account is named "Big Company Homepage".
+The person named Charlie Red has the account "Charlie's account".
+The group "Big Company" is a group whose homepage is also "Big Company Homepage"
+and has two members: Charlie and another member.

@@ -1,0 +1,19 @@
+{
+  "name": "watch-results",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx parcel index.html data.json -p 7070",
+    "build": "npx parcel build index.html data.json --dist-dir ./parcel --no-source-maps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "@parcel/transformer-vue": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
