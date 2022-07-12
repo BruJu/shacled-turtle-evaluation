@@ -1,0 +1,4 @@
+The corporation named ACME has two departments. The first one is the legal department
+of ACME and its phone number is 456-489-785. The second one is the sales
+department. The latter department owns the "ACME Pasta", a product
+produced since 1999-08-12 whose slogan is "The most random white pasta ever made".

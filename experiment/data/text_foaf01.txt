@@ -1,0 +1,4 @@
+Alexa Bosquet is a person. She published a paper named
+"Towards a paper starting with towards". This paper is the primary topic
+of a document. The paper depicts an image whose thumbnail is 
+"https://example.org/ex.svg".

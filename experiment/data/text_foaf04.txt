@@ -1,0 +1,2 @@
+Charlie Red is a person that has an account. This account is named "Charlie's account" and is held by the service whose homepage is "https://example.org/bigcompany".
+Big Company is a group with two members: Charlie and another member. Big Company also uses "https://example.org/bigcompany" as its homepage
